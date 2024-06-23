@@ -1,6 +1,6 @@
 # Netflix Clone
 <p align="center"> 
- ![Project3-Flixster](https://user-images.githubusercontent.com/109322859/224818013-91283bda-a22d-4b19-9811-9c949e442406.gif)
+  <img width="700" alt="Netflix_Clone" src="https://user-images.githubusercontent.com/109322859/224818013-91283bda-a22d-4b19-9811-9c949e442406.gif">
 </p>
 
 
