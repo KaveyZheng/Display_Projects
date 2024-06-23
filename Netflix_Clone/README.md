@@ -8,3 +8,4 @@
 - Tab bar controller to switch between collection and table view screens
 - Autolayout features for app to fit dynamic screen sizes
 
+[Video Walkthrough](https://user-images.githubusercontent.com/109322859/222928779-7ecc4a6a-dd3e-489d-b969-b3a7d2b1990e.gif)
