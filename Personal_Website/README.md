@@ -1,4 +1,4 @@
-# <a href="https://kaveyzheng.github.io" target="_blank">Personal Website</a>
+# <a href="https://kaveyzheng.github.io" target="blank">Personal Website</a>
 
 - Comprehensive display of projects, achievements, and resume to highlight personal and professional development
 - Designed and wireframed using Figma to define personal brand that reflects personal style and identity
