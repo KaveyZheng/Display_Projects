@@ -1,4 +1,4 @@
-# [2D Platformer]([url](https://houxa.itch.io/platformer-project))
+# <a href="https://readme.com/](https://houxa.itch.io/platformer-project" target="_blank">2D Platformer</a>
 *In collaboration with Jason Beissel*
 
 - Level 1
