@@ -1,5 +1,7 @@
 # Search and Sort Time Complexity Comparisons
-<img width="400" alt="GUI interface" src="https://github.com/KaveyZheng/Projects/assets/109322859/45d9bc46-7fa4-4943-9929-cc21d349538b">
+<p align="center">
+  <img width="400" alt="GUI interface" src="https://github.com/KaveyZheng/Projects/assets/109322859/45d9bc46-7fa4-4943-9929-cc21d349538b">
+</p>
 
 - Presents a GUI that allows a user to read in file of numbers to sort and search for
 <img width="150" alt="GUI tab reading sort and search files" src="https://github.com/KaveyZheng/Projects/assets/109322859/f479c9a3-f8f7-49ce-a395-da4cc3a34e6e">
