@@ -1,4 +1,4 @@
-# Multithreaded TCP Server
+# Multithreaded TCP & UDP Server
 <p align="center">
   <img width="500" alt="Website" src="https://github.com/user-attachments/assets/f4b37748-f02d-49b3-8351-d5d5bc83fa0c">
 </p>
