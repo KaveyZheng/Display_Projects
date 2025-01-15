@@ -3,6 +3,6 @@
 ### Showcasing projects including: TCP server, algorithm analysis, game development, website design, and user experience
 
 - Click on any project
-- Read READMEs for synpopsis and visuals
+- Read READMEs for synopsis and visuals
 
 
